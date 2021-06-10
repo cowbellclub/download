@@ -36,6 +36,7 @@ main{
       /* height: 100vh; */
       width: 30vw;
       font-size:1vw;
+      filter:invert(1);
       /* border-bottom: 10px solid #4DAA57;; */
   }
 
